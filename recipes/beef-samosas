@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Beef Samosa Recipe</title>
+    </head>
+    <body>
+        <header>
+            <h1>Beef Samosa Recipe</h1>
+            <a href="../index.html" rel="nofollow noopener">Odin Recipes Home</a>
+            <img src="https://www.allrecipes.com/thmb/RzE12jY1wBTetr_L7Fm-aZsolSU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/609167-fcde3d214a3b4ee49eaf679ad46198d1.jpg" width="300" alt="three beef samosas">
+        </header>
+    </body>
+</html>
