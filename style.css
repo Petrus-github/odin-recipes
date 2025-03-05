@@ -1,0 +1,36 @@
+.main {
+    background-color: rgb(185, 253, 250);
+}
+
+.recipe-h1 {
+    color: red;
+    background-color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.recipe-h2 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.recipe-links {
+    color: orangered;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+.ordered {
+    font-style: italic;
+    font-weight: 700;
+}
+
+.unordered {
+    font-style: oblique;
+    font-weight: bold;
+    color: rgb(21, 53, 2);
+}
+
+.list {
+    color: blueviolet;
+}
