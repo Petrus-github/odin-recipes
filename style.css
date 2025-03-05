@@ -25,12 +25,12 @@
     font-weight: 700;
 }
 
+.list {
+    color: blueviolet;
+}
+
 .unordered {
     font-style: oblique;
     font-weight: bold;
     color: rgb(21, 53, 2);
-}
-
-.list {
-    color: blueviolet;
 }
