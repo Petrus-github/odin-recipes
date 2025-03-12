@@ -56,6 +56,8 @@
 .beef, .chicken, .samosas {
     background-color: rgb(185, 253, 250);
     margin: 5px 20px 20px 20px;
+    width: 300px;
+    height: 300px;
 
 }
 
